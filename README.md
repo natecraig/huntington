@@ -18,4 +18,4 @@ Contact: [Nate Craig](mailto:craig.186@osu.edu)
 - [Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 - [AlphaPortfolio: Direct Construction Through Deep Reinforcement Learning and Interpretable AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3554486)
 - [High-Resolution Image Reconstruction with Latent Diffusion Models from Human Brain Activity](https://sites.google.com/view/stablediffusion-with-brain/)
-
+- [Power and Prediction: The Disruptive Economics of Artificial Intelligence](https://store.hbr.org/product/power-and-prediction-the-disruptive-economics-of-artificial-intelligence/10580)
