@@ -12,5 +12,6 @@
 - [Prompt Engineering](https://github.com/brexhq/prompt-engineering)
 - [IEEE Spectrum Interview with Rodney Brooks](https://spectrum.ieee.org/gpt-4-calm-down)
 - [Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
+- [AlphaPortfolio: Direct Construction Through Deep Reinforcement Learning and Interpretable AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3554486)
 - [High-Resolution Image Reconstruction with Latent Diffusion Models from Human Brain Activity](https://sites.google.com/view/stablediffusion-with-brain/)
 
