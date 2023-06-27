@@ -1,5 +1,7 @@
 # Huntington Analytics Expo 2023
 
+Contact: [Nate Craig](mailto:craig.186@osu.edu)
+
 ## Sources, Further Learning, and Demos
 
 - [The Defeat of the Winograd Schema Challenge](https://arxiv.org/pdf/2201.02387.pdf)
